@@ -1,0 +1,214 @@
+{
+  "game": {
+    "keyboard-controls": {
+      "UP": "W",
+      "DOWN": "S",
+      "LEFT": "A",
+      "RIGHT": "D",
+      "FIRE": "Z",
+      "SLOW": "X",
+      "INVINCIBLE": "I"
+    },
+    "player": {
+      "startPosition": {
+        "x": 400,
+        "y": 300
+      },
+      "texture": "player",
+      "health": 1,
+      "movement": {
+        "style": "player",
+        "speed": 5
+      },
+      "attackSpeed": 30,
+      "attackStyle": "player",
+      "lives": 1
+    },
+    "waves": [
+      {
+        "duration": 0,
+        "startPosition": {
+          "x": 0,
+          "y": 100
+        },
+        "target": {
+          "x": 830,
+          "y": 100
+        },
+        "enemyType": "basicEnemy",
+        "texture": "basic",
+        "enemyAmount": 5,
+        "interval": 2,
+        "hp": 1,
+        "atkSpeed": 75,
+        "attackStyle": "straight",
+        "movement": {
+          "style": "linear",
+          "minCompletionTime": 0,
+          "speed": 100
+        }
+      },
+      {
+        "duration": 0,
+        "startPosition": {
+          "x": 100,
+          "y": 100
+        },
+        "target": {
+          "x": 900,
+          "y": 300
+        },
+        "enemyType": "basicEnemy",
+        "texture": "basic",
+        "enemyAmount": 5,
+        "interval": 2,
+        "hp": 1,
+        "atkSpeed": 50,
+        "attackStyle": "straight",
+        "movement": {
+          "style": "linear",
+          "minCompletionTime": 0,
+          "speed": 150
+        }
+      },
+      {
+        "duration": 0,
+        "startPosition": {
+          "x": 0,
+          "y": 100
+        },
+        "target": {
+          "x": 0,
+          "y": 0
+        },
+        "enemyType": "basicEnemy2",
+        "texture": "basicEnemy2",
+        "enemyAmount": 6,
+        "interval": 1,
+        "hp": 1,
+        "atkSpeed": 80,
+        "attackStyle": "tracking",
+        "movement": {
+          "style": "zigzag",
+          "minCompletionTime": 0,
+          "speed": 125
+        }
+      },
+      {
+        "duration": 0,
+        "startPosition": {
+          "x": 150,
+          "y": 10
+        },
+        "target": {
+          "x": 1000,
+          "y": 510
+        },
+        "enemyType": "basicEnemy",
+        "texture": "basic",
+        "enemyAmount": 4,
+        "interval": 4,
+        "hp": 1,
+        "atkSpeed": 50,
+        "attackStyle": "straight",
+        "movement": {
+          "style": "linear",
+          "minCompletionTime": 0,
+          "speed": 150
+        }
+      },
+      {
+        "duration": 0,
+        "startPosition": {
+          "x": 0,
+          "y": 100
+        },
+        "target": {
+          "x": 0,
+          "y": 0
+        },
+        "enemyType": "basicEnemy2",
+        "texture": "basicEnemy2",
+        "enemyAmount": 3,
+        "interval": 4,
+        "hp": 1,
+        "atkSpeed": 80,
+        "attackStyle": "tracking",
+        "movement": {
+          "style": "zigzag",
+          "minCompletionTime": 0,
+          "speed": 125
+        }
+      },
+      {
+        "duration": 10,
+        "startPosition": {
+          "x": 0,
+          "y": 200
+        },
+        "target": {
+          "x": 0,
+          "y": 0
+        },
+        "enemyType": "midBoss",
+        "texture": "midBoss",
+        "enemyAmount": 1,
+        "interval": 2,
+        "hp": 30,
+        "atkSpeed": 50,
+        "attackStyle": "midBoss",
+        "movement": {
+          "style": "midBoss",
+          "minCompletionTime": 50,
+          "speed": 250
+        }
+      },
+      {
+        "duration": 10,
+        "startPosition": {
+          "x": 50,
+          "y": 10
+        },
+        "target": {
+          "x": 1000,
+          "y": 510
+        },
+        "enemyType": "basicEnemy",
+        "texture": "basic",
+        "enemyAmount": 7,
+        "interval": 2,
+        "hp": 1,
+        "atkSpeed": 70,
+        "attackStyle": "straight",
+        "movement": {
+          "style": "linear",
+          "minCompletionTime": 50,
+          "speed": 175
+        }
+      },
+      {
+        "duration": 10,
+        "startPosition": {
+          "x": 750,
+          "y": 90
+        },
+        "target": {
+          "x": 0,
+          "y": 0
+        },
+        "enemyType": "finalBoss",
+        "texture": "finalBoss",
+        "enemyAmount": 1,
+        "interval": 2,
+        "hp": 30,
+        "atkSpeed": 50,
+        "attackStyle": "finalBoss",
+        "movement": {
+          "style": "finalBoss",
+          "minCompletionTime": 60,
+          "speed": 50
+        }
+      }
+    ]
+  }
+}

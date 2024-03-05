@@ -1,0 +1,45 @@
+D:\teamgebbunlimited\BHSTG\BHSTG\bin\Debug\netcoreapp3.1\Content\ability.xnb
+D:\teamgebbunlimited\BHSTG\BHSTG\bin\Debug\netcoreapp3.1\Content\ball.xnb
+D:\teamgebbunlimited\BHSTG\BHSTG\bin\Debug\netcoreapp3.1\Content\b_flame.xnb
+D:\teamgebbunlimited\BHSTG\BHSTG\bin\Debug\netcoreapp3.1\Content\cloud.xnb
+D:\teamgebbunlimited\BHSTG\BHSTG\bin\Debug\netcoreapp3.1\Content\easymode.xnb
+D:\teamgebbunlimited\BHSTG\BHSTG\bin\Debug\netcoreapp3.1\Content\frieza.xnb
+D:\teamgebbunlimited\BHSTG\BHSTG\bin\Debug\netcoreapp3.1\Content\Gather_pic.xnb
+D:\teamgebbunlimited\BHSTG\BHSTG\bin\Debug\netcoreapp3.1\Content\goku back sprite.xnb
+D:\teamgebbunlimited\BHSTG\BHSTG\bin\Debug\netcoreapp3.1\Content\hardmode.xnb
+D:\teamgebbunlimited\BHSTG\BHSTG\bin\Debug\netcoreapp3.1\Content\invincegoku.xnb
+D:\teamgebbunlimited\BHSTG\BHSTG\bin\Debug\netcoreapp3.1\Content\mines_BG.xnb
+D:\teamgebbunlimited\BHSTG\BHSTG\bin\Debug\netcoreapp3.1\Content\rectangle.xnb
+D:\teamgebbunlimited\BHSTG\BHSTG\bin\Debug\netcoreapp3.1\Content\Saibamen.xnb
+D:\teamgebbunlimited\BHSTG\BHSTG\bin\Debug\netcoreapp3.1\Content\SaibamenBlue.xnb
+D:\teamgebbunlimited\BHSTG\BHSTG\bin\Debug\netcoreapp3.1\Content\Song.ogg
+D:\teamgebbunlimited\BHSTG\BHSTG\bin\Debug\netcoreapp3.1\Content\Song.xnb
+D:\teamgebbunlimited\BHSTG\BHSTG\bin\Debug\netcoreapp3.1\Content\target.xnb
+D:\teamgebbunlimited\BHSTG\BHSTG\bin\Debug\netcoreapp3.1\Content\vegetaX1.xnb
+D:\teamgebbunlimited\BHSTG\BHSTG\bin\Debug\netcoreapp3.1\Content\You're Loser.xnb
+D:\teamgebbunlimited\BHSTG\BHSTG\bin\Debug\netcoreapp3.1\Content\You're Winner.xnb
+D:\teamgebbunlimited\BHSTG\BHSTG\bin\Debug\netcoreapp3.1\BHSTG.exe
+D:\teamgebbunlimited\BHSTG\BHSTG\bin\Debug\netcoreapp3.1\BHSTG.deps.json
+D:\teamgebbunlimited\BHSTG\BHSTG\bin\Debug\netcoreapp3.1\BHSTG.runtimeconfig.json
+D:\teamgebbunlimited\BHSTG\BHSTG\bin\Debug\netcoreapp3.1\BHSTG.runtimeconfig.dev.json
+D:\teamgebbunlimited\BHSTG\BHSTG\bin\Debug\netcoreapp3.1\BHSTG.dll
+D:\teamgebbunlimited\BHSTG\BHSTG\bin\Debug\netcoreapp3.1\BHSTG.pdb
+D:\teamgebbunlimited\BHSTG\BHSTG\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+D:\teamgebbunlimited\BHSTG\BHSTG\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\teamgebbunlimited\BHSTG\BHSTG\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\teamgebbunlimited\BHSTG\BHSTG\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+D:\teamgebbunlimited\BHSTG\BHSTG\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+D:\teamgebbunlimited\BHSTG\BHSTG\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+D:\teamgebbunlimited\BHSTG\BHSTG\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+D:\teamgebbunlimited\BHSTG\BHSTG\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+D:\teamgebbunlimited\BHSTG\BHSTG\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+D:\teamgebbunlimited\BHSTG\BHSTG\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+D:\teamgebbunlimited\BHSTG\BHSTG\obj\Debug\netcoreapp3.1\BHSTG.csproj.AssemblyReference.cache
+D:\teamgebbunlimited\BHSTG\BHSTG\obj\Debug\netcoreapp3.1\BHSTG.GeneratedMSBuildEditorConfig.editorconfig
+D:\teamgebbunlimited\BHSTG\BHSTG\obj\Debug\netcoreapp3.1\BHSTG.AssemblyInfoInputs.cache
+D:\teamgebbunlimited\BHSTG\BHSTG\obj\Debug\netcoreapp3.1\BHSTG.AssemblyInfo.cs
+D:\teamgebbunlimited\BHSTG\BHSTG\obj\Debug\netcoreapp3.1\BHSTG.csproj.CoreCompileInputs.cache
+D:\teamgebbunlimited\BHSTG\BHSTG\obj\Debug\netcoreapp3.1\BHSTG.csproj.CopyComplete
+D:\teamgebbunlimited\BHSTG\BHSTG\obj\Debug\netcoreapp3.1\BHSTG.dll
+D:\teamgebbunlimited\BHSTG\BHSTG\obj\Debug\netcoreapp3.1\BHSTG.pdb
+D:\teamgebbunlimited\BHSTG\BHSTG\obj\Debug\netcoreapp3.1\BHSTG.genruntimeconfig.cache

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/teamgebbunlimited/BHSTG/BHSTG/Content/Song.mp3</SourceFile>
+  <SourceTime>2022-05-04T15:47:07.6091068-07:00</SourceTime>
+  <DestFile>D:/teamgebbunlimited/BHSTG/BHSTG/Content/bin/DesktopGL/Content/Song.xnb</DestFile>
+  <DestTime>2022-05-04T15:48:00.1523834-07:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2020-08-10T09:17:54-07:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2020-08-10T09:17:54-07:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>D:/teamgebbunlimited/BHSTG/BHSTG/Content/bin/DesktopGL/Content/Song.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>

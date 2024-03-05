@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/teamgebbunlimited/BHSTG/BHSTG/Content/ability.PNG</File>
+    <File>D:/teamgebbunlimited/BHSTG/BHSTG/Content/b_flame.png</File>
+    <File>D:/teamgebbunlimited/BHSTG/BHSTG/Content/ball.png</File>
+    <File>D:/teamgebbunlimited/BHSTG/BHSTG/Content/cloud.png</File>
+    <File>D:/teamgebbunlimited/BHSTG/BHSTG/Content/easymode.png</File>
+    <File>D:/teamgebbunlimited/BHSTG/BHSTG/Content/frieza.png</File>
+    <File>D:/teamgebbunlimited/BHSTG/BHSTG/Content/Gather_pic.png</File>
+    <File>D:/teamgebbunlimited/BHSTG/BHSTG/Content/goku back sprite.png</File>
+    <File>D:/teamgebbunlimited/BHSTG/BHSTG/Content/hardmode.png</File>
+    <File>D:/teamgebbunlimited/BHSTG/BHSTG/Content/invincegoku.PNG</File>
+    <File>D:/teamgebbunlimited/BHSTG/BHSTG/Content/mines_BG.png</File>
+    <File>D:/teamgebbunlimited/BHSTG/BHSTG/Content/rectangle.png</File>
+    <File>D:/teamgebbunlimited/BHSTG/BHSTG/Content/Saibamen.png</File>
+    <File>D:/teamgebbunlimited/BHSTG/BHSTG/Content/SaibamenBlue.png</File>
+    <File>D:/teamgebbunlimited/BHSTG/BHSTG/Content/Song.mp3</File>
+    <File>D:/teamgebbunlimited/BHSTG/BHSTG/Content/target.png</File>
+    <File>D:/teamgebbunlimited/BHSTG/BHSTG/Content/vegetaX1.png</File>
+    <File>D:/teamgebbunlimited/BHSTG/BHSTG/Content/You're Loser.png</File>
+    <File>D:/teamgebbunlimited/BHSTG/BHSTG/Content/You're Winner.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
