@@ -13,6 +13,7 @@ The architecture prioritizes Availability and Performance, ensuring seamless gam
 - Damage of player: 1
 - Rate of fire: 3 shots a second - subject to change
 
-- Scoring: normal enemies:5 points 
-- 	     mid boss: 750 points
-- 	     final boss: 1000 points
+#### Scoring:
+- normal enemies:5 points 
+- mid boss: 750 points
+- final boss: 1000 points
